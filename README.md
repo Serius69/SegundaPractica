@@ -5,3 +5,4 @@ Integrantes del grupo
 -Troche Mayta Sergio
 -Porcel Peña Jhoan
 -Mamani Sergio
+-Vargas Roxana
