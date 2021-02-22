@@ -7,7 +7,7 @@ _En el siguiente documento se especifica la solicitud de creacion y puesta en ma
 
 ### Requerimientos de la empresa 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Que cosas tendra el sistema_
 
 ```
 Da un ejemplo
@@ -15,9 +15,9 @@ Da un ejemplo
 
 ### Valor del trabajo 🔧
 
-_Beneficios tangibles_
+#### Beneficios tangibles
 
-_Beneficios intangibles_
+#### Beneficios intangibles
 
 ```
 Da un ejemplo
@@ -28,11 +28,11 @@ _Ejemplo_
 
 ## Analisis de Factibilidad  ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Explica las herramientas y el uso que se tendra del sistema_
 
 ### Factibilidad Tecnica 🔩
 
-_Explica que verifican estas pruebas y por qué_
+_El uso que tendra el sistema_
 
 ```
 Da un ejemplo
@@ -40,7 +40,7 @@ Da un ejemplo
 
 ### Factibilidad Economica (Presupuesto) ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+_Cual es el presupuesto que se tiene para la realizacion del proyecto_
 
 ```
 Da un ejemplo
@@ -48,7 +48,7 @@ Da un ejemplo
 
 ### Factibilidad Organizacional 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Cual sera la jerarquia de la realizacion del proyecto_
 
 
 _Anexo_
@@ -59,8 +59,7 @@ _Anexo_
 
 ## Autores ✒️
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Sergio Troche** - *Trabajo Inicial* - [serius69](https://github.com/Serius69)
 
 
 
