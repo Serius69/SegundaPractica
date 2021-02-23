@@ -1,4 +1,4 @@
-# DOCUMENTO
+﻿# DOCUMENTO
 
 _En el siguiente documento se especifica la solicitud de creacion y puesta en marcha de un sistema computacional el cual estara en un servidor web y sera de uso publico para la ciudad de La Paz Bolivia_
 
@@ -35,6 +35,8 @@ _Ejemplo_
 ### Cuestiones especiales 
 
 ## Analisis de Factibilidad  ⚙️
+
+Analizando el proyecto que elegimos realizar este semestre para la materia de Ingenieria de Software, preparamos el siguiente analisis de viabilidad:
 
 
 
@@ -74,4 +76,4 @@ _Anexo_
 ## Autores ✒️
 
 * **Sergio Troche** - *Trabajo Inicial* - [serius69](https://github.com/Serius69)
-* **
+* **Roxana Vargas** - *Analisis de Factibilidad* - [rvt1908](https://github.com/rvt1908)
