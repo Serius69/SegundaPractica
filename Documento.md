@@ -36,9 +36,7 @@ _Ejemplo_
 
 ## Analisis de Factibilidad  ⚙️
 
-Analizando el proyecto que elegimos realizar este semestre para la materia de Ingenieria de Software, preparamos el siguiente analisis de viabilidad:
-
-
+Despues de analizar el proyecto que decidimos realizar este semestre para la materia de Ingenieria de Software, preparamos el siguiente analisis de factibilidad:
 
 ### Factibilidad Tecnica 🔩
 
