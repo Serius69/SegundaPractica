@@ -94,4 +94,4 @@ _Anexo_
 ## Autores ✒️
 
 * **Sergio Troche** - *Trabajo Inicial* - [serius69](https://github.com/Serius69)
-* **Roxana Vargas** - *Analisis de Factibilidad* - [rvt1908](https://github.com/rvt1908)
+* **Roxana Vargas** - *Analisis de Factibilidad* - [rvt1908](https://github.com/roxana1908)
