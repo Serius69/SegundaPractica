@@ -89,9 +89,9 @@ B/C = VAI / VAC
 ```
 
 _donde :_
-*B/C : relación costo-beneficio
-*VAI : valor actual de los ingresos totales netos o beneficios netos
-*VAC : valor actual de los costos de inversión o costos totales
+* B/C : relación costo-beneficio
+* VAI : valor actual de los ingresos totales netos o beneficios netos
+* VAC : valor actual de los costos de inversión o costos totales
 Aplicando:
 ```
 B/C = (30000/(1+0.1))/()
