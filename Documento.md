@@ -36,17 +36,17 @@ _Ejemplo_
 
 ## Analisis de Factibilidad  ⚙️
 
-Despues de analizar el sistema "Ayudame" que decidimos realizar este semestre para la materia de Ingenieria de Software, preparamos el siguiente analisis de factibilidad:
+Despues de analizar el sistema "Ayudame" que decidimos realizar este semestre para la materia de Ingeniería de Software I, preparamos el siguiente análisis de factibilidad:
 
-### Factibilidad Tecnica 🔩
+### Factibilidad Técnica 🔩
 
-El sistema "Ayudame" es factible tecnicamente, aunque existe cierto riesgo.
+El sistema "Ayudame" es factible técnicamente, aunque existe cierto riesgo.
 
-El riesgo del sistema con respecto a la familiaridad con la aplicacion y con la tecnologia es muy baja, todos los miembros del equipo realizaron proyectos anteriores relacionados con paginas web, sin embargo ninguno realizo una e-commerce habilitando metodos de pagos directos.  
+El riesgo del sistema con respecto a la familiaridad con la aplicación y con la tecnología es muy baja pero existe, todos los miembros del equipo realizamos proyectos anteriores relacionados con páginas web, sin embargo ninguno de nosotros realizó una e-commerce habilitando métodos de pagos directos.  
 
-Por otro lado, el riesgo del sistema con respecto al tamaño del proyecto es otro punto a tomar en cuenta, si bien deseariamos que el proyecto pudiera hacerse realidad para ayudar a todas las personas que lo necesiten, tenemos el riesgo de no delimitar bien nuestro trabajo y querer acaparar mas de lo que realmente podriamos terminar en 4 meses.  
+Por otro lado, el riesgo del sistema con respecto al tamaño del proyecto es otro punto a tomar en cuenta, si bien deseariamos que el proyecto pudiera hacerse realidad para ayudar a todas las personas que lo necesiten, tenemos el riesgo de no delimitar bien nuestro trabajo y querer acaparar más de lo que realmente podríamos terminar en 4 meses.  
 
-Entonces con todos los puntos planteados anteriormente podriamos decir que podemos construirlo si no nos salimos del limite propuesto inicialmente.
+Entonces, con todos los puntos planteados anteriormente podriamos decir que podemos construir el sistema si y solo si no nos salimos del limite propuesto inicialmente.
 
 ### Factibilidad Economica (Presupuesto) 💰
 
