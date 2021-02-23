@@ -9,15 +9,19 @@ Hoy en dia la creacion de un sistema startup en nuestro pais Bolivia es algo que
 
 Como sponsor del proyecto mencionado tenemos a uno de nuestros docentes el Ing. Campohermoso el cual por medio de impulsar la creacion de un sitema que ayude a los emprendimientos existentes en nuestro pais
 
-### Necesidades del sistema
+### Business Need - Necesidades del Negocio
 
 _Que cosas necesita la empresa_
-La empresa necesita 
+
+Este proyecto se inició para ayudar econominamente a pequenios proyectos del area de tecnologia y arte de nuestro, mediante la recaudacion en linea de recursos economicos a traves de Internet utilizando nuestra pagina Web
 
 ### Requerimientos de la empresa 📋
+Las funcionalidades especificas que nuestro sistema tenra incluido son los siguientes:
 
-Como requerimientos
-
+- Poner donar a un proyecto en especifico por transferencia bancaria o pago por tarjeta
+- Estar en contacto con los diferentes creadores de proyectos.
+- Poder visualizar los proyectos de manera dinamica.
+- 
 ```
 Da un ejemplo
 ```
