@@ -5,15 +5,18 @@ _En el siguiente documento se especifica la solicitud de creacion y puesta en ma
 Hoy en dia la creacion de un sistema startup en nuestro pais Bolivia es algo que solamente greandes empresas de desarrollo pueden realizar ademas que muchas de ellas kno cuentan con el apoyo economico adecuado o simplemente no tienen como conseguir el dinero.
 
 ## REQUERIMIENTOS DEL SISTEMA 🚀
-### Sponsor
+### Sponsor del proyecto
 
+Como sponsor del proyecto mencionado tenemos a uno de nuestros docentes el Ing. Campohermoso el cual por medio de impulsar la creacion de un sitema que ayude a los emprendimientos existentes en nuestro pais
 
-### Que ofrece el sistema
+### Necesidades del sistema
+
 _Que cosas necesita la empresa_
 La empresa necesita 
 
 ### Requerimientos de la empresa 📋
-_Que cosas tendra el sistema_
+
+Como requerimientos
 
 ```
 Da un ejemplo
