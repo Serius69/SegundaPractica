@@ -42,11 +42,27 @@ Despues de analizar el sistema "Ayudame" que decidimos realizar este semestre pa
 
 El sistema "Ayudame" es factible técnicamente, aunque existe cierto riesgo.
 
-El riesgo del sistema con respecto a la familiaridad con la aplicación y con la tecnología es muy baja pero existe, todos los miembros del equipo realizamos proyectos anteriores relacionados con páginas web, sin embargo ninguno de nosotros realizó una e-commerce habilitando métodos de pagos directos.  
+El riesgo del sistema con respecto a la familiaridad con sistemas de *crowd funding* es moderadamente alto.
 
-Por otro lado, el riesgo del sistema con respecto al tamaño del proyecto es otro punto a tomar en cuenta, si bien deseariamos que el proyecto pudiera hacerse realidad para ayudar a todas las personas que lo necesiten, tenemos el riesgo de no delimitar bien nuestro trabajo y querer acaparar más de lo que realmente podríamos terminar en 4 meses.  
+- Tenemos poca familiaridad con sistemas de este tipo.
+- Tenemos poca experiencia con sistemas que no contribuyen economicamente y que mas bien son para ayuda social.
+- No existen otras paginas parecidas en Bolivia por lo que no podemos guiarnos a partir de estas.
+- No sabemos que tanta aceptacion tendra por parte de las personas.
 
-Entonces, con todos los puntos planteados anteriormente podriamos decir que podemos construir el sistema si y solo si no nos salimos del limite propuesto inicialmente.
+Por otro lado, el riesgo del sistema "Ayudame" con respecto a la familiaridad con la tecnología es muy bajo.
+
+- Todos los miembros del equipo tenemos conocimientos de sistemas de entrada de pedidos basados en la Web, las bases de datos y la tecnología de que utiliza.
+
+El tamaño del proyecto se considera de riesgo medio.
+
+- El equipo estara formado por 4 personas.
+- El plazo del proyecto es algo crítico, ya que es necesario que el sistema este terminado en 4 meses.
+- Tenemos el riesgo de no delimitar bien nuestro trabajo y querer acaparar más de lo que realmente podríamos terminar en 4 meses.  
+
+La compatibilidad con la infraestructura técnica es relativamente media.
+
+- Todos los miembros del equipo cuentan con internet y los equipos necesarios para realizar el proyecto.
+- Sera un sistema en la nube y se utilizara una equipo como servidor.
 
 ### Factibilidad Economica (Presupuesto) 💰
 
