@@ -81,19 +81,20 @@ Para la realizacion del sistema mencionado se tiene la suma de 30000 dolares ame
 Se realizó un análisis de costo-beneficio para un año.
 Primeramente, debemos calcular el valor actual de los ingresos totales netos o beneficioes netos, para lo cual tenemos datos aproximados.
 * Se tendrá un ingreso de US$ 0, esperando una tasa de rentabilidad del 0%
-* Se tiene una inversión de US$ 30 000, esperando una tasa de interés del 20%.
-
+* Se tiene una inversión de US$ 30 000, esperando una tasa de interés del 0%.
 para calcular la ralacino costo-beneficio:
----
+
+```
+
 B/C = VAI / VAC
----
+```
+
 _donde :_
-B/C : relación costo-beneficio
-VAI : valor actual de los ingresos totales netos o beneficios netos
-VAC : valor actual de los costos de inversión o costos totales
-```
-Da un ejemplo
-```
+-B/C : relación costo-beneficio
+-VAI : valor actual de los ingresos totales netos o beneficios netos
+-VAC : valor actual de los costos de inversión o costos totales
+
+
 
 ### Factibilidad Organizacional 📦
 
