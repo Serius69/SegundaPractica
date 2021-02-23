@@ -49,22 +49,23 @@ El riesgo del sistema con respecto a la familiaridad con sistemas de *crowd fund
 - No existen otras paginas parecidas en Bolivia por lo que no podemos guiarnos a partir de estas.
 - No sabemos que tanta aceptacion tendra por parte de las personas.
 
-Por otro lado, el riesgo del sistema "Ayudame" con respecto a la familiaridad con la tecnología es muy bajo.
+El riesgo del sistema con respecto a la familiaridad con la tecnología es relativamente bajo.
 
-- Todos los miembros del equipo tenemos conocimientos de sistemas de entrada de pedidos basados en la Web, las bases de datos y la tecnología de que utiliza.
+- Tenemos conocimientos de sistemas de entrada de pedidos basados en la Web, las bases de datos y la tecnología de que utiliza.
+- Ninguno realizó antes un sistema e-commerce con métodos de pago directos.
 
 El tamaño del proyecto se considera de riesgo medio.
 
-- El equipo estara formado por 4 personas.
+- El equipo estará formado por 4 personas.
 - El plazo del proyecto es algo crítico, ya que es necesario que el sistema este terminado en 4 meses.
 - Tenemos el riesgo de no delimitar bien nuestro trabajo y querer acaparar más de lo que realmente podríamos terminar en 4 meses.  
 
-La compatibilidad con la infraestructura técnica es relativamente media.
+La compatibilidad con la infraestructura técnica es muy baja.
 
 - Todos los miembros del equipo cuentan con internet y los equipos necesarios para realizar el proyecto.
-- Sera un sistema en la nube y se utilizara una equipo como servidor.
+- Será un sistema en la nube y se utilizará una equipo como servidor.
 
-### Factibilidad Economica (Presupuesto) 💰
+### Factibilidad Económica (Presupuesto) 💰
 
 _Cual es el presupuesto que se tiene para la realizacion del proyecto_
 
