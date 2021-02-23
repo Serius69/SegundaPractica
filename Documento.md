@@ -46,7 +46,7 @@ El riesgo del sistema con respecto a la familiaridad con sistemas de *crowd fund
 
 - Tenemos poca familiaridad con sistemas de este tipo.
 - Tenemos poca experiencia con sistemas que no contribuyen economicamente y que mas bien son para ayuda social.
-- No existen otras paginas parecidas en Bolivia por lo que no podemos guiarnos a partir de estas.
+- Existen pocas paginas parecidas en Bolivia.
 - No sabemos que tanta aceptacion tendra por parte de las personas.
 
 El riesgo del sistema con respecto a la familiaridad con la tecnología es relativamente bajo.
@@ -71,14 +71,19 @@ _Cual es el presupuesto que se tiene para la realizacion del proyecto_
 
 Para la realizacion del sistema mencionado se tiene la suma de 30000 dolares americanos los cuales son de uso directo sin financiacion de alguna entidad bancaria.
 
+Se realizó un análisis de costo-beneficio......
+
 ```
 Da un ejemplo
 ```
 
 ### Factibilidad Organizacional 📦
 
+Desde una perspectiva organizacional, este proyecto tiene un riesgo bajo. 
 
+Nuestro sponsor, Ing. Ernesto Campohermoso, esta plenamente interiorizado en el proyecto por lo que nos brindará la ayuda necesaria y nos guiará por el camino correcto.
 
+Se espera que las personas que utilizen nuestra página, tanto las que pedirán el financiamiento como las que ayudarán voluntariamente, aprecien los esfuerzos de integrar metodos de pago directos para sus donaciones. Es preocupante el hecho de que en Bolivia la mayoria de las personas no estan acostumbradas a realizar pagos por internet pero es una realidad que ira cambiando con el tiempo. 
 
 _Anexo_
 
