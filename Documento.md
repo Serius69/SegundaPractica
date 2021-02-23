@@ -83,7 +83,7 @@ Desde una perspectiva organizacional, este proyecto tiene un riesgo bajo.
 
 Nuestro sponsor, Ing. Ernesto Campohermoso, esta plenamente interiorizado en el proyecto por lo que nos brindará la ayuda necesaria y nos guiará por el camino correcto.
 
-Se espera que las personas que utilizen nuestra página, tanto las que pedirán el financiamiento como las que ayudarán voluntariamente, aprecien los esfuerzos de integrar metodos de pago directos para sus donaciones. Es preocupante el hecho de que en Bolivia la mayoria de las personas no estan acostumbradas a realizar pagos por internet pero es una realidad que ira cambiando con el tiempo. 
+Se espera que las personas que utilizen nuestra página, tanto las que pedirán el financiamiento como las que ayudarán voluntariamente, aprecien los esfuerzos para integrar métodos de pago directos para facilitar las donaciones. Es preocupante el hecho de que en Bolivia la mayoría de las personas no están acostumbradas a realizar pagos por internet, pero es una realidad que irá cambiando con el tiempo. 
 
 _Anexo_
 
