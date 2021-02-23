@@ -40,14 +40,13 @@ Despues de analizar el proyecto que decidimos realizar este semestre para la mat
 
 ### Factibilidad Tecnica 🔩
 
-Para la creacion del sistema se necesita:
+El sistema "Ayudame" es factible tecnicamente, aunque existe cierto riesgo.
 
-#### Un Ingeniero de Sistemas 
-Con experiencia de trabajo de 4 años en el area de desarrollo web, con aptitudes en JavaScript
- 
-```
-Da un ejemplo
-```
+El riesgo del sistema con respecto a la familiaridad con la aplicacion y con la tecnologia es muy baja, todos los miembros del equipo realizaron proyectos anteriores relacionados con paginas web, sin embargo ninguno realizo una e-commerce habilitando metodos de pagos directos.  
+
+Por otro lado, el riesgo del sistema con respecto al tamaño del proyecto es otro punto a tomar en cuenta, si bien deseariamos que el proyecto pudiera hacerse realidad para ayudar a todas las personas que lo necesiten, tenemos el riesgo de no delimitar bien nuestro trabajo y querer acaparar mas de lo que realmente podriamos terminar en 4 meses.  
+
+Entonces con todos los puntos planteados anteriormente podriamos decir que podemos construirlo si no nos salimos del limite propuesto inicialmente.
 
 ### Factibilidad Economica (Presupuesto) 💰
 
@@ -61,7 +60,6 @@ Da un ejemplo
 
 ### Factibilidad Organizacional 📦
 
-_Que necesita la empresa_
 
 
 
