@@ -123,7 +123,7 @@ B/C = 0.00073
 ```
 _La relacion costo-beneficio en ambos casos es de 0.00073 con lo que podemos afirmar que el proyecto no es rentable._
 
-COSTOS DE DESARROLLO
+**COSTOS DE DESARROLLO**
 
 _Salarios de Equipo_
 * Cada programador recibirá US$ 6000, haciendo un total de US$ 24 000.
@@ -141,16 +141,16 @@ _Capacitaciones_
 _Espacio de oficina y equipamiento_
 * Por le momento no se dispone de oficinas y/o equipamiento sofisticado.
 
-COSTOS OPERATIVOS
+**COSTOS OPERATIVOS**
 
 _Salario del personal de operaciones_
 * No se contará con personal de operaciones.
 
-BENEFICIOS TANGIBLES
+**BENEFICIOS TANGIBLES**
 
 * Ingreso del 5% por cada proyecto "financiado".
 
-BENEFICIOS INTANGIBLES
+**BENEFICIOS INTANGIBLES**
 
 * Otra opcion de "Kickstarted" en Bolivia.
 * Ser un medio para el "financiamiento" de proyectos innovadores.
