@@ -106,7 +106,7 @@ ROI = [((inversión inicial+beneficios )-inversion inicial)/inversión inicial]*
 ROI actual:
 ```
 ROI = ((30000+0 - 30000)/30000)*100
-ROI = 0%
+ROI = 0.00 --> 0%
 ```
 ROI estimado:
 ```
