@@ -97,11 +97,14 @@ La compatibilidad con la infraestructura técnica es muy baja.
 - Todos los miembros del equipo cuentan con internet y los equipos necesarios para realizar el proyecto.
 - Será un sistema en la nube y se utilizará una equipo como servidor.
 
+
 ### Factibilidad Económica 💰
 
 _¿Cual es el presupuesto que se tiene para la realizacion del proyecto?_
 
 Para la realizacion del sistema mencionado se tiene la suma de 30000 dolares americanos los cuales son de uso directo sin financiacion de alguna entidad bancaria.
+
+**CALCULO DEL COSTO-BENEFICIO**
 
 Se realizó un análisis de costo-beneficio para un año.
 Primeramente, debemos calcular el valor actual de los ingresos totales netos o beneficioes netos, para lo cual tenemos datos aproximados.
@@ -117,24 +120,75 @@ _donde :_
 * B/C : relación costo-beneficio
 * VAI : valor actual de los ingresos totales netos o beneficios netos
 * VAC : valor actual de los costos de inversión o costos totales
+
 Hallando ROI(Tasa de rentabilidad):
+
+**CALCULO DEL ROI**
+
 ```
-ROI = [((inversión inicial+beneficios )-inversion)/inversión]*100
+ROI = [((inversión inicial+beneficios )-inversion inicial)/inversión inicial]*100
 ```
 ROI actual:
 ```
 ROI = ((30000+0 - 30000)/30000)*100
-ROI = 0%
+ROI = 0.00 --> 0%
 ```
 ROI estimado:
 ```
 ROI = ((30000+240 - 30000)/30000)*100
 ROI = 0.008 --> 0.8%
 ```
-Hallando relacion costo-beneficio:
+_En ambos casos el ROI nos indica que se tendrá beneficios a largo plazo_
+
+Hallando relacion costo-beneficio actual:
 ```
-ROI = (20/(1+0 )/()
+B/C = (20/(1+0))/(30000/(1+0.1))
+B/C = 0.00073
 ```
+Hallando relacion costo-beneficio estimado:
+```
+B/C = (20/(1+0.0008))/(30000/(1+0.1))
+B/C = 0.00073
+```
+_La relacion costo-beneficio en ambos casos es de 0.00073 con lo que podemos afirmar que el proyecto no es rentable._
+
+**COSTOS DE DESARROLLO**
+
+_Salarios de Equipo_
+* Cada programador recibirá US$ 6000, haciendo un total de US$ 24 000.
+
+_Gastos de hardware y software_
+* No se necesitaran hacer gastos en hardware.
+* Por el momento tampoco se realizaran gastos en softwares externos.
+
+_Honorario  de consultores_
+* Se pagará un total de US$ 1200, por una consultoria completa.
+
+_Capacitaciones_
+* Por el momento no se necesitará un capacitor.
+
+_Espacio de oficina y equipamiento_
+* Por le momento no se dispone de oficinas y/o equipamiento sofisticado.
+
+**COSTOS OPERATIVOS**
+
+_Salario del personal de operaciones_
+* No se contará con personal de operaciones.
+
+**BENEFICIOS TANGIBLES**
+
+* Ingreso del 5% por cada proyecto "financiado".
+
+**BENEFICIOS INTANGIBLES**
+
+* Otra opcion de "Kickstarted" en Bolivia.
+* Ser un medio para el "financiamiento" de proyectos innovadores.
+* Aceptacion positiva por la sociedad en general.
+
+
+
+
+
 
 ### Factibilidad Organizacional 📦
 
@@ -153,5 +207,6 @@ _Anexo_
 ## Autores ✒️
 
 * **Sergio Troche** - *Trabajo Inicial* - [serius69](https://github.com/Serius69)
-* **Ivan Mamani** - *Busuness Value* - [Aivan21](https://github.com/Aivan21)
+* **Ivan Mamani** - *Business Value* - [Aivan21](https://github.com/Aivan21)
 * **Roxana Vargas** - *Analisis de Factibilidad* - [roxana1908](https://github.com/roxana1908)
+* **Jhoan Porcel** - *Factibilidad economica* - [PorcelJhoan](https://github.com/PorcelJhoan)
