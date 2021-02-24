@@ -109,6 +109,7 @@ ROI = ((30000+240 - 30000)/30000)*100
 ROI = 0.008 --> 0.8%
 ```
 _En ambos casos el ROI nos indica que se tendrá beneficios a largo plazo_
+
 Hallando relacion costo-beneficio actual:
 ```
 B/C = (20/(1+0))/(30000/(1+0.1))
