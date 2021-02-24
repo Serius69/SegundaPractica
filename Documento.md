@@ -128,4 +128,5 @@ _Anexo_
 ## Autores ✒️
 
 * **Sergio Troche** - *Trabajo Inicial* - [serius69](https://github.com/Serius69)
+* **Ivan Mamani** - *Busuness Value* - [Aivan21](https://github.com/Aivan21)
 * **Roxana Vargas** - *Analisis de Factibilidad* - [roxana1908](https://github.com/roxana1908)
