@@ -95,7 +95,11 @@ _donde :_
 * B/C : relación costo-beneficio
 * VAI : valor actual de los ingresos totales netos o beneficios netos
 * VAC : valor actual de los costos de inversión o costos totales
+
 Hallando ROI(Tasa de rentabilidad):
+
+**CALCULO DEL ROI**
+
 ```
 ROI = [((inversión inicial+beneficios )-inversion inicial)/inversión inicial]*100
 ```
