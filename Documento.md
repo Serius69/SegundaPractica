@@ -125,34 +125,34 @@ _La relacion costo-beneficio en ambos casos es de 0.00073 con lo que podemos afi
 COSTOS DE DESARROLLO
 
 _Salarios de Equipo_
-Cada programador recibirá US$ 6000, haciendo un total de US$ 24 000.
+* Cada programador recibirá US$ 6000, haciendo un total de US$ 24 000.
 
 _Gastos de hardware y software_
-*No se necesitaran hacer gastos en hardware.
-*Por el momento tampoco se realizaran gastos en softwares externos.
+* No se necesitaran hacer gastos en hardware.
+* Por el momento tampoco se realizaran gastos en softwares externos.
 
 _Honorario  de consultores_
-Se pagará un total de US$ 1200, por una consultoria completa.
+* Se pagará un total de US$ 1200, por una consultoria completa.
 
-_Capacitaciones
-Por el momento no se necesitará un capacitor.
+_Capacitaciones_
+* Por el momento no se necesitará un capacitor.
 
 _Espacio de oficina y equipamiento_
-Por le momento no se dispone de oficinas y/o equipamiento sofisticado.
+* Por le momento no se dispone de oficinas y/o equipamiento sofisticado.
 
 COSTOS OPERATIVOS
 
 _Salario del personal de operaciones_
-No se contará con personal de operaciones.
+* No se contará con personal de operaciones.
 
 BENEFICIOS TANGIBLES
 
-*Ingreso del 5% por cada proyecto "donado".
+* Ingreso del 5% por cada proyecto "donado".
 
 BENEFICIOS INTANGIBLES
 
-*Otra opcion de "Kickstarted" en Bolivia.
-*Ser un medio para el "financiamiento" de proyectos innovadores.
+* Otra opcion de "Kickstarted" en Bolivia.
+* Ser un medio para el "financiamiento" de proyectos innovadores.
 
 
 
