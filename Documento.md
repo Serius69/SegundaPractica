@@ -41,11 +41,30 @@ Da un ejemplo
 _Ejemplo_
 ### Cuestiones especiales 
 
-## Business Value 🚀
+## Business Value 📡
+
+En Business Value Definiremos el valor del proyecto, atravez de la suma de 
+elementos tangibles e intangibles.
 ### Beneficios Tangibles
+- Uno de los beneficios tangibles a largo plazo es la renovacion de equipos como ser los 
+servidores, Pc de escritorio, Laptops y todo aparato electronico que puede quedar obsoleto al 
+pasar el tiempo
+- La Comision del 5% que se pedira al proyecto que alcanse su meta.
+ 
 ### Beneficios Intangibles
 
+- El Impacto social que llegaria a tener la pagina a nivel Bolivia.
+- La ayuda para el crecimiento de pequenias empresas o proyectos.
+- El crecimiento a nivel tecnologico que se puede generar en el pais.
+- Seguridad de los datos personales, de las personas de que se registren en la pagina.
+
 ## Special Issues or Contraints
+- la implementacion del proyecto solo se realizara a nivel Bolivia.
+- Solo se tomara en cuanta a proyecto que tengan relacion con tecnologia o artesania.
+- En el caso de Proyectos que tengan que ver con tecnologia solo se aceptaran si tienen un
+prototipo funcional del mismo.
+- En caso que el Proyecto no logre su meta el dinero recaudado sera devuelto a 
+sus a los inversores.
 
 ## Analisis de Factibilidad  ⚙️
 
