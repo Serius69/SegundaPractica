@@ -41,6 +41,12 @@ Da un ejemplo
 _Ejemplo_
 ### Cuestiones especiales 
 
+## Business Value 🚀
+### Beneficios Tangibles
+### Beneficios Intangibles
+
+## Special Issues or Contraints
+
 ## Analisis de Factibilidad  ⚙️
 
 Despues de analizar el sistema "Ayudame" que decidimos realizar este semestre para la materia de Ingeniería de Software I, preparamos el siguiente análisis de factibilidad:
@@ -134,4 +140,5 @@ _Anexo_
 ## Autores ✒️
 
 * **Sergio Troche** - *Trabajo Inicial* - [serius69](https://github.com/Serius69)
+* **Ivan Mamani** - *Busuness Value* - [Aivan21](https://github.com/Aivan21)
 * **Roxana Vargas** - *Analisis de Factibilidad* - [roxana1908](https://github.com/roxana1908)
