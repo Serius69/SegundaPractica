@@ -94,7 +94,7 @@ _donde :_
 * VAC : valor actual de los costos de inversión o costos totales
 Hallando ROI(Tasa de rentabilidad):
 ```
-ROI = [((inversión inicial+beneficios )-inversion)/inversión]*100
+ROI = [((inversión inicial+beneficios )-inversion inicial)/inversión inicial]*100
 ```
 ROI actual:
 ```
@@ -106,9 +106,15 @@ ROI estimado:
 ROI = ((30000+240 - 30000)/30000)*100
 ROI = 0.008 --> 0.8%
 ```
-Hallando relacion costo-beneficio:
+Hallando relacion costo-beneficio actual:
 ```
-ROI = (20/(1+0 )/()
+B/C = (20/(1+0))/(30000/(1+0.1))
+B/C = 0.00073
+```
+Hallando relacion costo-beneficio estimado:
+```
+B/C = (20/(1+0.0008))/(30000/(1+0.1))
+B/C = 0.00073
 ```
 
 ### Factibilidad Organizacional 📦
