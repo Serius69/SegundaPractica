@@ -72,13 +72,14 @@ La compatibilidad con la infraestructura técnica es muy baja.
 - Todos los miembros del equipo cuentan con internet y los equipos necesarios para realizar el proyecto.
 - Será un sistema en la nube y se utilizará una equipo como servidor.
 
+
 ### Factibilidad Económica 💰
 
 _¿Cual es el presupuesto que se tiene para la realizacion del proyecto?_
 
 Para la realizacion del sistema mencionado se tiene la suma de 30000 dolares americanos los cuales son de uso directo sin financiacion de alguna entidad bancaria.
 
-CALCULO DEL COSTO-BENEFICIO
+**CALCULO DEL COSTO-BENEFICIO**
 
 Se realizó un análisis de costo-beneficio para un año.
 Primeramente, debemos calcular el valor actual de los ingresos totales netos o beneficioes netos, para lo cual tenemos datos aproximados.
