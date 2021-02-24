@@ -147,12 +147,15 @@ _Salario del personal de operaciones_
 
 BENEFICIOS TANGIBLES
 
-* Ingreso del 5% por cada proyecto "donado".
+* Ingreso del 5% por cada proyecto "financiado".
 
 BENEFICIOS INTANGIBLES
 
 * Otra opcion de "Kickstarted" en Bolivia.
 * Ser un medio para el "financiamiento" de proyectos innovadores.
+* Aceptacion positiva por la sociedad en general.
+
+
 
 
 
