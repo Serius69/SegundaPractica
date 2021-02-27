@@ -23,15 +23,15 @@ Identificamos algunas necesidades del negocio:
 
 ### Business Requirements - Requerimientos del negocio 📋
 Las funcionalidades específicas que el sistema debe tener son los siguientes:
--	El sistema debe ser una pagina web que sea responsive.
+-	El sistema debe ser una página web que sea responsive.
 -	El sistema debe admitir donaciones en línea mediante la red enlace con posibilidades de escalabilidad en el futuro.
 -	El sistema debe almacenar de forma segura los datos de los usuarios, sobre todo cuentas bancarias.
--	El sistema debe cobrar automáticamente el 5% del monto acumulado, ya sea que llegue a al 100% del monto requerido o no.
+-	El sistema debe cobrar automáticamente el 5% del monto acumulado, ya sea que llegue al 100% del monto requerido o no.
 -	El sistema debe almacenar de forma correcta las donaciones para los distintos proyectos.
 -	El sistema debe poder visualizar los proyectos de manera dinámica.
 -	El sistema debe mostrar los proyectos por categorías (Textil, cerámica, madera, etc.).
 -	El sistema debe generar material educativo que asegure que todos los participantes de la plataforma conocen el funcionamiento básico de crowdfunding.
--	El sistema debe mantener informados, tanto a los emprendedores como a los donadores, sobre el estado del proyecto.
+-	El sistema debe mantener informados (tanto a los emprendedores como a los donadores) sobre el estado del proyecto.
 -	El sistema debe permitir estar en contacto con los diferentes creadores de proyectos.
 -	El sistema debe tener una interfaz amigable para el usuario ya que la mayoría de las personas bolivianas no están acostumbradas a manejar páginas web.
 -       El sistema debe generar un documento con validez legal donde especifique que el dinero recaudado debe ser usado específicamente para el proyecto suscrito, además este documento debe incluir una cláusula donde el usuario acepta notificarnos sobre el avance del emprendimiento.
