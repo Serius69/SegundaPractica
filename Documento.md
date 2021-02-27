@@ -34,8 +34,7 @@ Las funcionalidades específicas que el sistema debe tener son los siguientes:
 -	El sistema debe mantener informados (tanto a los emprendedores como a los donadores) sobre el estado del proyecto.
 -	El sistema debe permitir estar en contacto con los diferentes creadores de proyectos.
 -	El sistema debe tener una interfaz amigable para el usuario ya que la mayoría de las personas bolivianas no están acostumbradas a manejar páginas web.
--       El sistema debe generar un documento con validez legal donde especifique que el dinero recaudado debe ser usado específicamente para el proyecto suscrito, 
-        además este documento debe incluir una cláusula donde el usuario acepta notificarnos sobre el avance del emprendimiento.
+-	El sistema debe generar un documento con validez legal donde especifique que el dinero recaudado debe ser usado específicamente para el proyecto suscrito, además este documento debe incluir una cláusula donde el usuario acepta notificarnos sobre el avance del emprendimiento.
 -	El sistema debe mostrar una galería de fotos y videos para cada proyecto.
 -	El sistema debe notificarnos cada cierto tiempo para poder hacer el seguimiento de un proyecto terminado.
 -	El sistema debe notificar al donante si es que fuera merecedor de alguna recompensa por parte del emprendedor.
