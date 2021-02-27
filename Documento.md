@@ -1,26 +1,38 @@
-﻿# DOCUMENTO
+ DOCUMENTO
 
-_En el siguiente documento se especifica la solicitud de creacion y puesta en marcha de un sistema computacional el cual estara en un servidor web y sera de uso publico para la ciudad de La Paz Bolivia_
+_En el siguiente documento se especifica la solicitud de creación y puesta en marcha de un sistema computacional el cual estará en un servidor web y sera de uso publico para la ciudad de La Paz Bolivia_
 
-Hoy en dia la creacion de un sistema startup en nuestro pais Bolivia es algo que solamente greandes empresas de desarrollo pueden realizar ademas que muchas de ellas kno cuentan con el apoyo economico adecuado o simplemente no tienen como conseguir el dinero.
+Hoy en día la creación de un sistema startup en nuestro país Bolivia es algo que solamente grandes empresas de desarrollo pueden realizar ademas que muchas de ellas que no cuentan con el apoyo económico adecuado o simplemente no tienen como conseguir el dinero.
 
 ## REQUERIMIENTOS DEL SISTEMA 🚀
 ### Sponsor del proyecto
 
-Como sponsor del proyecto mencionado tenemos a uno de nuestros docentes el Ing. Campohermoso el cual por medio de impulsar la creacion de un sitema que ayude a los emprendimientos existentes en nuestro pais
+Como sponsor del proyecto mencionado tenemos al Ing. Campohermoso, el cual ayudara a impulsar la creación de un sistema que ayude a los emprendimientos existentes en nuestro país nos brindara la ayuda necesaria.
 
 ### Business Need - Necesidades del Negocio
 
-_Que cosas necesita la empresa_
+Este proyecto se inició para ayudar económicamente a pequeños proyectos del área de tecnología y artesanía de nuestro país, mediante la recaudación en linea de recursos económicos a través de Internet utilizando nuestra pagina Web.
 
-Este proyecto se inició para ayudar econominamente a pequenios proyectos del area de tecnologia y arte de nuestro, mediante la recaudacion en linea de recursos economicos a traves de Internet utilizando nuestra pagina Web
+Identificamos algunas necesidades del proyecto: 
+
+-Posesionarse en el mercado.
+
+-Obtención de ventaja competitiva.
+
+-Mejorar la toma de decisiones.
+
+-Planificación estratégica mediante la recolección de datos para futuras mejoras del sistema.
+
+-Escalabilidad del Negocio.
+
+-Rentabilidad.
 
 ### Requerimientos de la empresa 📋
-Las funcionalidades especificas que nuestro sistema tenra incluido son los siguientes:
+Las funcionalidades especificas que nuestro sistema tendrá incluido son los siguientes:
 
 - Poner donar a un proyecto en especifico por transferencia bancaria o pago por tarjeta
 - Estar en contacto con los diferentes creadores de proyectos.
-- Poder visualizar los proyectos de manera dinamica.
+- Poder visualizar los proyectos de manera dinámica.
 - 
 ```
 Da un ejemplo
@@ -43,32 +55,32 @@ _Ejemplo_
 
 ## Business Value 📡
 
-En Business Value Definiremos el valor del proyecto, atravez de la suma de 
+En Business Value Definiremos el valor del proyecto, con de la suma de 
 elementos tangibles e intangibles.
 ### Beneficios Tangibles
-- Uno de los beneficios tangibles a largo plazo es la renovacion de equipos como ser los 
-servidores, Pc de escritorio, Laptops y todo aparato electronico que puede quedar obsoleto al 
+- Uno de los beneficios tangibles a largo plazo es la renovación de equipos como ser los 
+servidores, Pc de escritorio, Laptops y todo aparato electrónico que puede quedar obsoleto al 
 pasar el tiempo
-- La Comision del 5% que se pedira al proyecto que alcanse su meta.
+- La Comisión del 5% que se pedirá al proyecto que alcance su meta.
  
 ### Beneficios Intangibles
 
-- El Impacto social que llegaria a tener la pagina a nivel Bolivia.
+- El Impacto social que llegaría a tener la pagina a nivel Bolivia.
 - La ayuda para el crecimiento de pequenias empresas o proyectos.
-- El crecimiento a nivel tecnologico que se puede generar en el pais.
+- El crecimiento a nivel tecnológico que se puede generar en el país.
 - Seguridad de los datos personales, de las personas de que se registren en la pagina.
 
 ## Special Issues or Contraints
-- la implementacion del proyecto solo se realizara a nivel Bolivia.
-- Solo se tomara en cuanta a proyecto que tengan relacion con tecnologia o artesania.
-- En el caso de Proyectos que tengan que ver con tecnologia solo se aceptaran si tienen un
+- la implementación del proyecto solo se realizara a nivel Bolivia.
+- Solo se tomara en cuanta a proyecto que tengan relación con tecnología o artesanía.
+- En el caso de Proyectos que tengan que ver con tecnología solo se aceptaran si tienen un
 prototipo funcional del mismo.
 - En caso que el Proyecto no logre su meta el dinero recaudado sera devuelto a 
 sus a los inversores.
 
-## Analisis de Factibilidad  ⚙️
+## Análisis de Factibilidad  ⚙️
 
-Despues de analizar el sistema "Ayudame" que decidimos realizar este semestre para la materia de Ingeniería de Software I, preparamos el siguiente análisis de factibilidad:
+Después de analizar el sistema "Ayudame" que decidimos realizar este semestre para la materia de Ingeniería de Software I, preparamos el siguiente análisis de factibilidad:
 
 ### Factibilidad Técnica 🔩
 
@@ -77,9 +89,9 @@ El sistema "Ayudame" es factible técnicamente, aunque existe cierto riesgo.
 El riesgo del sistema con respecto a la familiaridad con sistemas de *crowd funding* es moderadamente alto.
 
 - Tenemos poca familiaridad con sistemas de este tipo.
-- Tenemos poca experiencia con sistemas que no contribuyen economicamente y que mas bien son para ayuda social.
+- Tenemos poca experiencia con sistemas que no contribuyen económicamente y que mas bien son para ayuda social.
 - Existen pocas paginas parecidas en Bolivia.
-- No sabemos que tanta aceptacion tendra por parte de las personas.
+- No sabemos que tanta aceptación tendrá por parte de las personas.
 
 El riesgo del sistema con respecto a la familiaridad con la tecnología es relativamente bajo.
 
@@ -100,17 +112,17 @@ La compatibilidad con la infraestructura técnica es muy baja.
 
 ### Factibilidad Económica 💰
 
-_¿Cual es el presupuesto que se tiene para la realizacion del proyecto?_
+_¿Cual es el presupuesto que se tiene para la realización del proyecto?_
 
-Para la realizacion del sistema mencionado se tiene la suma de 30000 dolares americanos los cuales son de uso directo sin financiacion de alguna entidad bancaria.
+Para la realización del sistema mencionado se tiene la suma de 30000 dólares americanos los cuales son de uso directo sin financiación de alguna entidad bancaria.
 
 **CALCULO DEL COSTO-BENEFICIO**
 
 Se realizó un análisis de costo-beneficio para un año.
-Primeramente, debemos calcular el valor actual de los ingresos totales netos o beneficioes netos, para lo cual tenemos datos aproximados.
+Primeramente, debemos calcular el valor actual de los ingresos totales netos o beneficios netos, para lo cual tenemos datos aproximados.
 * Se estima que se tendrá un ingreso de US$ 20, esperando una tasa de rentabilidad del 0%
 * Se tiene una inversión de US$ 30 000, esperando una tasa de interés del 10%.
-para calcular la ralacino costo-beneficio:
+para calcular la relación costo-beneficio:
 
 ```
 B/C = VAI / VAC
@@ -126,7 +138,7 @@ Hallando ROI(Tasa de rentabilidad):
 **CALCULO DEL ROI**
 
 ```
-ROI = [((inversión inicial+beneficios )-inversion inicial)/inversión inicial]*100
+ROI = [((inversión inicial+beneficios )-inversión inicial)/inversión inicial]*100
 ```
 ROI actual:
 ```
@@ -140,17 +152,17 @@ ROI = 0.008 --> 0.8%
 ```
 _En ambos casos el ROI nos indica que se tendrá beneficios a largo plazo_
 
-Hallando relacion costo-beneficio actual:
+Hallando relación costo-beneficio actual:
 ```
 B/C = (20/(1+0))/(30000/(1+0.1))
 B/C = 0.00073
 ```
-Hallando relacion costo-beneficio estimado:
+Hallando relación costo-beneficio estimado:
 ```
 B/C = (20/(1+0.0008))/(30000/(1+0.1))
 B/C = 0.00073
 ```
-_La relacion costo-beneficio en ambos casos es de 0.00073 con lo que podemos afirmar que el proyecto no es rentable._
+_La relación costo-beneficio en ambos casos es de 0.00073 con lo que podemos afirmar que el proyecto no es rentable._
 
 **COSTOS DE DESARROLLO**
 
@@ -159,10 +171,10 @@ _Salarios de Equipo_
 
 _Gastos de hardware y software_
 * No se necesitaran hacer gastos en hardware.
-* Por el momento tampoco se realizaran gastos en softwares externos.
+* Por el momento tampoco se realizaran gastos en software externos.
 
 _Honorario  de consultores_
-* Se pagará un total de US$ 1200, por una consultoria completa.
+* Se pagará un total de US$ 1200, por una consultoría completa.
 
 _Capacitaciones_
 * Por el momento no se necesitará un capacitor.
@@ -181,9 +193,9 @@ _Salario del personal de operaciones_
 
 **BENEFICIOS INTANGIBLES**
 
-* Otra opcion de "Kickstarted" en Bolivia.
+* Otra opción de "Kickstarted" en Bolivia.
 * Ser un medio para el "financiamiento" de proyectos innovadores.
-* Aceptacion positiva por la sociedad en general.
+* Aceptación positiva por la sociedad en general.
 
 
 
@@ -196,7 +208,7 @@ Desde una perspectiva organizacional, este proyecto tiene un riesgo bajo.
 
 Nuestro sponsor, Ing. Ernesto Campohermoso, esta plenamente interiorizado en el proyecto por lo que nos brindará la ayuda necesaria y nos guiará por el camino correcto.
 
-Se espera que las personas que utilizen nuestra página, tanto las que pedirán el financiamiento como las que ayudarán voluntariamente, aprecien los esfuerzos para integrar métodos de pago directos para facilitar las donaciones. Es preocupante el hecho de que en Bolivia la mayoría de las personas no están acostumbradas a realizar pagos por internet, pero es una realidad que irá cambiando con el tiempo. 
+Se espera que las personas que utilicen nuestra página, tanto las que pedirán el financiamiento como las que ayudarán voluntariamente, aprecien los esfuerzos para integrar métodos de pago directos para facilitar las donaciones. Es preocupante el hecho de que en Bolivia la mayoría de las personas no están acostumbradas a realizar pagos por internet, pero es una realidad que irá cambiando con el tiempo. 
 
 _Anexo_
 
