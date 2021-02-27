@@ -12,7 +12,7 @@ Como patrocinador del proyecto mencionado tenemos al Ing. Campohermoso, el cual 
 
 Este proyecto se inició para ayudar económicamente a pequeños proyectos del área de artesanías de nuestro país, mediante la recaudación en línea de donaciones a través de Internet utilizando nuestra página Web.
 
-Identificamos algunas necesidades del proyecto:   
+Identificamos algunas necesidades del negocio:   
 
 -	Posicionarse en el mercado.
 -	Obtención de ventaja competitiva.
